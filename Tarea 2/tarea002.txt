@@ -1,0 +1,13 @@
+## Primero Iniciamos el repo
+git init
+
+## Agregamos todo al stage
+git add .
+
+## Creamon el primer commit
+git commit -m "Mensaje todo super chidori"
+
+## Ahora creamos una rama y nos movemos a ella 
+git checkout developer
+
+## y listo :D no se enoje con la ortografia plis :3

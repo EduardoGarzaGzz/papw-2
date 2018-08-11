@@ -1,0 +1,5 @@
+Git es un control de verciones donde se usa la terminal para trabajar o usarlo
+
+mientras que el Sourcetree tiene un entorno grafico donde es mas comodo trabjar con git de manera interactiva e intuitiva 
+
+:D "Disculpe la mala ortografia y.y" :(
